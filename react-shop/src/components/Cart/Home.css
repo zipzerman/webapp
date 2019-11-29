@@ -1,0 +1,21 @@
+.logout{
+float:right;
+margin:10px 0px;
+}
+html, body {
+    height: 100%;
+    width: 80%;
+    background: white;
+}
+
+html {
+    display: table;
+    margin: auto;
+    background: white;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background: white;
+}
